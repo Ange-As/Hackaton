@@ -45,7 +45,7 @@ html{
     margin: 1rem;
     padding: 2rem;
     border: var(--border);
-    box-shadow: var(--shadow);
+    /* box-shadow: var(--shadow); */
 }
 
 .container .firs_box .img_logo{
